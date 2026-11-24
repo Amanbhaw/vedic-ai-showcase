@@ -1,0 +1,45 @@
+PROPRIETARY SOFTWARE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Aman Bhawsar. All rights reserved.
+
+This repository and all of its contents — including but not limited to the
+README, result tables, benchmark images, and the cryptographic proof artifacts
+(collectively, the "Work") — are the sole and exclusive property of Aman
+Bhawsar (the "Owner") and are proprietary and confidential.
+
+1. NO LICENSE GRANTED.
+   No license, right, title, or interest of any kind is granted to any person
+   or entity, whether by express grant, implication, estoppel, or otherwise.
+   You may NOT, in whole or in part, and by any means: use, copy, reproduce,
+   republish, host, distribute, sublicense, sell, rent, lease, modify, adapt,
+   translate, create derivative works from, decompile, disassemble, or reverse
+   engineer the Work or any idea, method, or know-how embodied in it.
+
+2. VERIFICATION-ONLY EXCEPTION.
+   The proof artifacts in `proof/` are provided SOLELY so that a recipient may
+   independently verify, using standard third-party tooling, that the stated
+   computation is genuine. This limited permission to run a verifier does not
+   grant any right to reuse, extract, repackage, or build upon the artifacts or
+   the Work, and does not transfer any ownership.
+
+3. TRADE SECRETS WITHHELD.
+   The engine source code, zero-knowledge circuits, prover implementations,
+   hardware description (RTL), layout, and the full methodology are trade
+   secrets of the Owner and are deliberately NOT included in this repository.
+   Nothing here shall be construed as disclosing or licensing them.
+
+4. NO REVERSE ENGINEERING / NO RE-IMPLEMENTATION OF DISCLOSED MATERIAL.
+   To the maximum extent permitted by law, you may not use any part of the Work
+   as the basis for reconstructing, re-implementing, or reproducing the Owner's
+   methods, designs, or results.
+
+5. NO WARRANTY.
+   The Work is provided "AS IS", without warranty of any kind. The Owner is not
+   liable for any claim, damages, or other liability arising from the Work.
+
+6. RESERVATION.
+   All rights not expressly granted herein are reserved by the Owner. For any
+   use, licensing, collaboration, or disclosure beyond the above, written
+   permission from the Owner is required.
+
+Unauthorized use may violate copyright, trade-secret, and other applicable laws.
