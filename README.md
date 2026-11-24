@@ -1,7 +1,7 @@
 # Verifiable Edge AI — proof-carrying inference + cross-ISA determinism
 
-A research showcase. **Results and a verifiable cryptographic proof are shared here; the
-engine source, circuits, RTL and methodology are proprietary and intentionally withheld.**
+**By Aman Bhawsar.** A research showcase. **Results and a verifiable cryptographic proof are shared
+here; the engine source, circuits, RTL and methodology are proprietary and intentionally withheld.**
 
 ---
 
@@ -54,9 +54,13 @@ bb verify -p proof/proof -k proof/vk    # → "Proof verified successfully"
 Verifiable sensors (anti-fraud ESG / supply-chain / cold-chain), AI oracles for blockchains,
 tamper-evident edge inference for safety- and defence-grade systems, and provenance-at-capture.
 
-## Status & contact
-Working prototypes, measured and CI-verified. Collaboration, licensing, grant and pilot
-enquiries welcome — reach out via LinkedIn. **Full technical materials available under NDA.**
+## Interested? Want to see more?
+Working prototypes, measured and CI-verified. For collaboration, licensing, grants, pilots, or
+access to the verifiable proof and deeper technical materials (under NDA):
+
+**👉 Comment or DM me on LinkedIn — Aman Bhawsar.**
+
+Full source, circuits, RTL and methodology remain proprietary and are shared only under NDA.
 
 ---
 © 2026 — All rights reserved. See [LICENSE](LICENSE). No license is granted to use, copy, modify
